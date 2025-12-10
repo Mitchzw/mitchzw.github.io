@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * 2nd state examination for teachers in biology and physics, Kaiserslautern, Germany, 2017
 * PhD in cell and molecular biology, Karlsruhe Institute of Technology, Germany, 2015
 * 1st state examination for teachers in biology and physics (equ. to MSc), Karlsruhe Institute of Technology, Germany, 2011
 
 Work experience
-======
+------
 * since 2025: Group leader publication services, Lib4RI, Dübendorf, Switzerland
   * Instituional repository
   * Open Access
@@ -45,9 +45,9 @@ Work experience
   * super-resolution microscopy
   * prototype testing and protocol development + implementation
     
-  
+{% comment %}  
 Skills
-======
+------
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -56,23 +56,24 @@ Skills
 * Skill 3
 
 Publications
-======
+------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+------
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
-======
+------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
-======
+------
 * Currently signed in to 43 different slack teams
+{% endcomment %}
