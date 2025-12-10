@@ -11,26 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2nd state examination for teachers in biology and physics, Kaiserslautern, Germany, 2017
+* PhD in cell and molecular biology, Karlsruhe Institute of Technology, Germany, 2015
+* 1st state examination for teachers in biology and physics (equ. to MSc), Karlsruhe Institute of Technology, Germany, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* since 2025: Group leader publication services, Lib4RI, Dübendorf, Switzerland
+  * Instituional repository
+  * Open Access
+  * AI in scientific writing and publishing
+  * training courses for PhD students and researcher
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2024: Postdoc and senior researcher, University of Geneva, Switzerland
+  * integrins and TGF-beta
+  * protein biochemistry
+  * cell biology and microscopy
+  * project management and student supervision
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - 2018: Postdoc and senior researcher, Karlsruhe Institute of Technology, Germany
+  * cell biology
+  * bio-orthogonal surface functionalization
+  * cell biology and microscopy
+  * student courses and lectures
+
+* 2015 - 2017: Teaching assistant, State Seminar for Teacher Education Kaiserslautern + Helmholtz-Gymnasium Zweibrücken, Germany
+  * teaching biology and physics to students, age 10 - 19
+  * pedagogics and didactics of biology and physics
+  * presentation techniques
+ 
+* 2011 - 2015: PhD student, Karlsruhe Institute of Technology, Germany
+  * cell biology
+  * super-resolution microscopy
+  * prototype testing and protocol development + implementation
+    
   
 Skills
 ======
