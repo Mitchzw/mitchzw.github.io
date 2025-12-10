@@ -9,8 +9,8 @@ redirect_from:
 
 I am the group leader for the publication services team at Lib4RI, the joint library for the four national Swiss research institutes ([Eawag](https://www.eawag.ch/en/), [Empa](https://www.empa.ch), [PSI](https://www.psi.ch/en), [WSL](https://www.wsl.ch/en/)). Before, I worked as a postdoc in cell and molecular biologgy, before that I was a school teacher, and before that I was a PhD student. Check my [CV](https://mitchzw.github.io/cv/) if you want to read the details. 
 
-
-##This website tries to combine different use cases:
+======
+This website tries to combine different use cases:
 
 1. Being my personal website, close to the style of all the other personal websites of academics. For this purpose, you can find my [CV](https://mitchzw.github.io/cv/), my [publications](https://mitchzw.github.io/publications/), and lay summaries about my research (not done yet) on this website.
 2. In my librarian job, I consult researcher on how to increase their visibility and that of their research. A personal website can be a great tool to achieve this, especially for early career scientists. I try to use my website as a template and showcase for my [teachings](https://mitchzw.github.io/teaching/) about this topic.
