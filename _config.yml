@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Michael Bachmann"
   pronouns         : "he/him"  
-  bio              : "Scientist in a library"
+  bio              : "A scientist in a library"
   location         : "Switzerland"
-  employer         : "Lib4RI - Library for the Research Institutes within the ETH Domain: Eawag, Empa, PSI & WSL"
+  employer         : "Lib4RI"
   uri              : "https://www.lib4ri.ch"
   email            : "michael.bachmann@lib4ri.ch" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "mitchzw.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -77,7 +77,7 @@ author:
   twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : "mitchzw"
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
