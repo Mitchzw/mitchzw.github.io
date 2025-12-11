@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website - following my professional journey across fields and countries"
+title: "Michael Bachmann - science, libraries, and stuff"
 author_profile: true
 redirect_from: 
   - /about/
