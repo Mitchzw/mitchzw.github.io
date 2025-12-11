@@ -37,7 +37,7 @@ $sidebar-screen-min-width   : 1024px;
 /* Dark theme for the site */
 html[data-theme="dark"] {
     --global-base-color                 : #{$background};
-    --global-bg-color                   : linear-gradient(135deg, #071a2b 0%, #072f44 100%);
+    --global-bg-color                   : #linear-gradient(135deg, #071a2b 0%, #072f44 100%);
     --global-footer-bg-color            : #{$footer};
     --global-border-color               : #{$light-primary-color};
     --global-dark-border-color          : #{$background-light};
